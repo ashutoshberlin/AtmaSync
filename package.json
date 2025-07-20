@@ -1,0 +1,16 @@
+{
+  "name": "ai-brain-extension",
+  "version": "1.0.0",
+  "description": "This example demonstrates how to create a simple \"Hello World\" Chrome Extension. For more details, visit the [official tutorial](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world).",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.25.7",
+    "jest": "^30.0.4"
+  }
+}
